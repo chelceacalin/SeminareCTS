@@ -1,4 +1,4 @@
-package builder.classes;
+ package builder.classes;
 
 public class ContBancar {
     private String numeClient;
