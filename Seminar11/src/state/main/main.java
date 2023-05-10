@@ -9,6 +9,5 @@ public class main {
         m1.rezervaMasa();
         m1.ocupareMasa();
         m1.elibereazaMasa();
-
     }
 }
